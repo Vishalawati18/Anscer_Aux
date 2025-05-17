@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2025-05-13_07-39-33")(type "KiCad")(uri "C:/Users/awati/OneDrive/Desktop/MyGit/Anscer_Aux/ul_BQ25756RRVR/KiCADv6/2025-05-13_07-39-33.kicad_sym")(options "")(descr ""))
+  (lib (name "mosfet")(type "KiCad")(uri "C:/Users/awati/OneDrive/Desktop/MyGit/Anscer_Aux/ul_DMG1026UV-7/KiCADv6/mosfet.kicad_sym")(options "")(descr ""))
+  (lib (name "Inductor")(type "KiCad")(uri "C:/Users/awati/OneDrive/Desktop/MyGit/Anscer_Aux/ul_IHLP6767GZER100M01/Inductor.kicad_sym")(options "")(descr ""))
+)

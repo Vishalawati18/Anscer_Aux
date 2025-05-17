@@ -1,0 +1,114 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "1d7ba292-033a-4505-8201-f0d97adf8194")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 72.39 43.18) (xy 105.41 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bfa72ddb-778b-439b-a776-8a28aa2bb504")
+	)
+	(wire
+		(pts
+			(xy 184.15 52.07) (xy 217.17 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2d1af6c-244e-427a-ad6b-858e606f203c")
+	)
+	(wire
+		(pts
+			(xy 184.15 43.18) (xy 217.17 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d740952a-c648-4a7a-a74f-7c77906a7753")
+	)
+	(sheet
+		(at 127 40.64)
+		(size 36.068 28.702)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c74d0464-649d-4445-9653-196331dfc11c")
+		(property "Sheetname" "Charging Path"
+			(at 127 39.9284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Charging_Path.kicad_sch"
+			(at 127 69.9266 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Anscer_Aux"
+				(path "/d44f2983-207f-44ee-9882-f58ad50f0fb3/12abc178-0fb8-46e7-8904-0abe5fe853d5/79990085-322b-4e7f-aee1-d1b40be7ca67"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 128.27 82.55)
+		(size 35.56 29.21)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "eeb2c406-7662-4158-a2cd-a792ff6a86d7")
+		(property "Sheetname" "Discharging Path"
+			(at 128.27 81.8384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Discharging_Path.kicad_sch"
+			(at 128.27 112.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Anscer_Aux"
+				(path "/d44f2983-207f-44ee-9882-f58ad50f0fb3/12abc178-0fb8-46e7-8904-0abe5fe853d5/79990085-322b-4e7f-aee1-d1b40be7ca67"
+					(page "16")
+				)
+			)
+		)
+	)
+)
